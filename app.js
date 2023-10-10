@@ -13,3 +13,5 @@ fruta.forEach(item => {
 })
 
 console.log(dinero)
+
+console.log('Hola mundo')
